@@ -1,0 +1,6 @@
+
+# Generated db files
+*.db
+
+# Freaking annoying files
+.DS_Store
