@@ -1,0 +1,19 @@
+{
+  "name": "basicb",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "benchmarks": "node benchmarks/benchmarks.mjs",
+    "basic-timer": "node benchmarks/basic-runner.mjs"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Cody Averett",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
