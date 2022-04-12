@@ -28,6 +28,3 @@ const suite = new Benchmark.Suite('algo tests', { async: false,  })
         console.log(benchmark.toString());
     })
     .run();
-
-
-
