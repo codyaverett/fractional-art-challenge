@@ -1,3 +1,4 @@
+node_modules
 
 # Generated db files
 *.db
