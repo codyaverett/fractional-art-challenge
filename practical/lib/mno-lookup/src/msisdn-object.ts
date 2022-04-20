@@ -11,14 +11,12 @@ export class Msisdn {
         this.value = numberString;
         
         this.noMoreThan15Characters();
-        
     }
 
     private noMoreThan15Characters() {
         if(this.value.length > 15) {
             throw new Error("The ITU-T recommendation E.164 limits the maximum length of an MSISDN to 15 digits");
         }
-
         return this;
     }
 
@@ -26,4 +24,7 @@ export class Msisdn {
         
     }
 
+    public toString() {
+        return this.value;
+    }
 }
