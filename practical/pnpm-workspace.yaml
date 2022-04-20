@@ -1,4 +1,3 @@
 packages:
-  - 'api'
-  - 'application'
-  - 'core'
+  - 'application/**/*'
+  - 'lib/**/*'

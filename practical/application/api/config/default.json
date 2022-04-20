@@ -1,0 +1,15 @@
+{
+    "api": {
+        "port": 8080,
+        "base": "/api/v1",
+        "logger": true
+    },
+    "storage": {
+        "mssql": {
+            "type": "mssql",
+            "port": 1433,
+            "user": "SA",
+            "password": "Passw0rd"
+        }
+    }
+}

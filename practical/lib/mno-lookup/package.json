@@ -1,0 +1,17 @@
+{
+  "name": "@lib/mno-lookup",
+  "version": "1.0.0",
+  "description": "msisdn lookup utility",
+  "main": "dist/mno-lookup.js",
+  "module": "dist/mno-lookup.mjs",
+  "types": "dist/mno-lookup.d.ts",
+  "source": "src/index.ts",
+  "author": "Cody Averett",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}

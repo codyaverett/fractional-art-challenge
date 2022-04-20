@@ -1,0 +1,19 @@
+{
+  "name": "@app/infra",
+  "version": "1.0.0",
+  "description": "infra utility library",
+  "private": true,
+  "main": "dist/infra.js",
+  "module": "dist/infra.mjs",
+  "types": "dist/infra.d.ts",
+  "source": "src/index.ts",
+  "author": "Cody Averett",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/mssql": "^7.1.5",
+    "@types/node": "^17.0.23"
+  }
+}
