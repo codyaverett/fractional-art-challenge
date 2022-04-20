@@ -53,3 +53,4 @@ _Please use Javascript / Typecript / Node JS for the following task._
 - [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - [Mobile Network Operators](https://en.wikipedia.org/wiki/List_of_mobile_network_operators)
 - [Network Code List](https://www.mideye.com/authentication-service/global-coverage/mobile-network-list/)
+- [Tokenizer](https://www.npmjs.com/package/tokenizr)
