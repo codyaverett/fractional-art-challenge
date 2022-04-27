@@ -48,7 +48,7 @@ I like to get the cons right out of the way.
 ## pros:
 
 - nice use of pnpm workspaces and monorepo approach 
-    > Thank you, I appreciate quick development cycles and minimizing coupling where it makes sense to. In my experience at a large enterprise, modularity is invaluable and makes us agile to change.  Code can be tossed, replaced, reused much easier as modules.`
+    > Thank you, I appreciate quick development cycles and minimizing coupling where it makes sense to. In my experience at a large enterprise, modularity is invaluable and makes us flexible to change.  Code can be tossed, replaced, reused, shared, tested, much easier as modules.`
 
 - typescript use is appreciated 
     > I have used typescript for many moons, it was a natural choice for me.
