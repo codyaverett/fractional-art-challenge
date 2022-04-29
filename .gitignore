@@ -1,5 +1,6 @@
 # Blackhole
 node_modules
+*.log
 
 node_modules
 .parcel-cache
