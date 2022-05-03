@@ -1,0 +1,17 @@
+{
+  "name": "@app/ui",
+  "version": "1.0.0",
+  "description": "Vue ui for visualizations",
+  "private": true,
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "3"
+  }
+}
